@@ -19,4 +19,4 @@ We will not sell or share any photos you publically post to Lensii to any third 
 
 The second part is a photo library, meant to help you figure out which of your many photos look good.
 Photos that you upload to your library are NOT publically viewable by anyone but yourself and those you explicitly share those photos with.
-Note that as of November 3, 2021, this second part is still in development.
+Note that as of November 4, 2021, this second part is still in development.
