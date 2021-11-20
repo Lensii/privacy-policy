@@ -1,7 +1,5 @@
 # privacy-policy
 
-Lensii does not yet have a legal department, so this won't be written in lawyer-talk.
-
 ### Data collected
 - Email
 - Name
